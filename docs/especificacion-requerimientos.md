@@ -4,9 +4,9 @@
 
 ## 2. Integrantes
 
-- Nombre:
-- Nombre:
-- Nombre:
+- Nombre: Alejandro Aponte Pérez
+- Nombre: Miguel Angel Ortega
+- Nombre: Samuel Soto Jojoa
 - Nombre:
 - Nombre:
 
