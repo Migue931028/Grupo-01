@@ -144,11 +144,13 @@ Cuando la cancelación sea realizada correctamente, el sistema deberá eliminar 
 ## 4. Gestión de Versiones
 
 ### Ramas utilizadas
+- main
 - dev
-- feature/rf02-consulta-turotias
-- feature/rf04-cancelacion-inscripcion
-
-
+- docs/Gestión-de-versiones
+- feature/rf01-registro-tutoria
+- feature/rf02-consulta-tutorias-rf04-cancelacion-inscripcion
+- feature/rf03-inscripcion-tutoria
 ### Proceso de integración
-
+Primero creamos la rama dev a partir de main. Posteriormente, cada integrante trabajó en una rama individual derivada de dev para, finalmente, integrar los cambios y verificar que no existieran conflictos
 ### Conflictos encontrados
+No tuvimos ningún conflicto como equipo
